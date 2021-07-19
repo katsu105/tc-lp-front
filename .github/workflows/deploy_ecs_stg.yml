@@ -81,5 +81,5 @@ jobs:
       with:
         task-definition: ${{ steps.task-def.outputs.task-definition }}
         service: lp
-        cluster: default
+        cluster: tc-lp-front
         wait-for-service-stability: true
