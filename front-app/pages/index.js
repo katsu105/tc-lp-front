@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          <a>これはdockerで立ち上げたnext-app</a>
+          <p>これはdockerで立ち上げたnext-app</p>
         </h1>
 
         <p className="description">
