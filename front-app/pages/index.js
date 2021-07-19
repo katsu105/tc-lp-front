@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          <a>これはGitHub Actionでpushしたnext-app</a>
+          <p>これはGitHub Actionでpushしたnext-app</p>
         </h1>
 
         <p className="description">
